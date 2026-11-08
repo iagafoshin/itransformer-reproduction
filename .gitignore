@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+iTransformer/dataset/
+iTransformer/checkpoints/
+iTransformer/results/
+iTransformer/test_results/
+paper/*.pdf
+paper/paper.txt
+.DS_Store
+TASK.md
+iTransformer/result_long_term_forecast.txt
